@@ -5,6 +5,8 @@ import tkinter.font as tkFont
 import time as tm
 from datetime import datetime
 
+print("arm")
+
 class App:
 
     def __init__(self, root):
